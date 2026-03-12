@@ -1,11 +1,18 @@
-<h1 align="center">Hi, I'm Ernest 👋</h1>
+<h1 align="center">Hi, I'm Ernest Bernard T. Lazatin</h1>
 
 <p align="center">
-  Aspiring Full-Stack Developer &nbsp;·&nbsp; UI/UX-Focused Builder &nbsp;·&nbsp; KargaDev 🚀
+  Aspiring Full Stack Developer &nbsp;·&nbsp; UI/UX Designer &nbsp
 </p>
 
 <p align="center">
-  Passionate about building clean, responsive, and real-world systems — from intuitive frontends to scalable backend solutions.
+  I build clean, responsive, and purposeful digital experiences —
+  from intuitive frontends to scalable backend solutions.
+</p>
+
+<p align="center">
+  <a href="https://github.com/lilernestooo">GitHub</a> &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/Ernest_Bernard_Lazatin">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:ernestlazatin69@gmail.com">Email</a>
 </p>
 
 ---
@@ -61,6 +68,4 @@
 
 <p align="center">
   <i>"Design with purpose. Build with precision. Deliver with impact."</i>
-  <br/>
-  — KargaDev 🚀
 </p>
