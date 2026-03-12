@@ -9,12 +9,6 @@
   from intuitive frontends to scalable backend solutions.
 </p>
 
-<p align="center">
-  <a href="https://github.com/lilernestooo">GitHub</a> &nbsp;·&nbsp;
-  <a href="https://linkedin.com/in/Ernest_Bernard_Lazatin">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:ernestlazatin69@gmail.com">Email</a>
-</p>
-
 ---
 
 ## 📊 GitHub Stats
