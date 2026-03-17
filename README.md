@@ -59,7 +59,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <i>"Design with purpose. Build with precision. Deliver with impact."</i>
-</p>
