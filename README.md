@@ -6,22 +6,10 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 GitHub Streak
 
 <p align="center">
-  <!-- GitHub Stats -->
-  <img height="160"
-       src="https://github-readme-stats.vercel.app/api?username=lilernestooo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
-
-  <!-- GitHub Streak -->
-  <img height="160"
-       src="https://streak-stats.demolab.com?user=lilernestooo&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <!-- Top Languages -->
-  <img height="160"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilernestooo&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img src="https://streak-stats.demolab.com?user=lilernestooo&theme=dark" />
 </p>
 
 ---
