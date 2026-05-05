@@ -9,11 +9,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- Main GitHub Stats -->
+  <!-- GitHub Stats -->
   <img height="160"
-       src="https://github-readme-stats.vercel.app/api?username=lilernestooo&show_icons=true&theme=tokyonight&hide_border=true" />
+       src="https://github-readme-stats.vercel.app/api?username=lilernestooo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
 
-  <!-- FIXED: Stable streak stats (replaces broken heroku version) -->
+  <!-- GitHub Streak -->
   <img height="160"
        src="https://streak-stats.demolab.com?user=lilernestooo&theme=tokyonight&hide_border=true" />
 </p>
@@ -21,15 +21,14 @@
 <p align="center">
   <!-- Top Languages -->
   <img height="160"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilernestooo&layout=compact&theme=tokyonight&hide_border=true" />
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilernestooo&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend**
-
+### Frontend
 <p>
   <img src="https://img.shields.io/badge/ReactJS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
@@ -40,8 +39,7 @@
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
-**Backend**
-
+### Backend
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
@@ -50,8 +48,7 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
-**Database**
-
+### Database
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -59,8 +56,7 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
-**Mobile**
-
+### Mobile
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
