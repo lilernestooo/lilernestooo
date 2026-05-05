@@ -8,7 +8,7 @@
 
 ## 🔥 GitHub Streak
 
-<img src="https://streak-stats.demolab.com?user=lilernestooo&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=lilernestooo&theme=dark&hide_border=true&cache_seconds=0" />
 
 ---
 
