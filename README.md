@@ -12,11 +12,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lilernestooo&theme=dark&hide_border=true" />
 </p>
 
-<p align="center">
-  <!-- Fallback if streak breaks -->
-  <img src="https://github-readme-stats.vercel.app/api?username=lilernestooo&show_icons=true&theme=dark&hide_border=true" />
-</p>
-
 ---
 
 ## 🛠️ Tech Stack
