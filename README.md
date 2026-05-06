@@ -6,11 +6,8 @@
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  ![](https://streak-stats.demolab.com?user=lilernestooo&theme=dark)
-</p>
+## GitHub Streak
+![](https://streak-stats.demolab.com?user=lilernestooo&theme=dark)
 
 ---
 
