@@ -6,14 +6,23 @@
 
 ---
 
-## GitHub Streak
-![](https://streak-stats.demolab.com?user=lilernestooo&theme=dark)
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=lilernestooo&theme=dark&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" />
+</p>
+
+<p align="center">
+  <!-- Fallback if streak breaks -->
+  <img src="https://github-readme-stats.vercel.app/api?username=lilernestooo&show_icons=true&theme=dark&hide_border=true" />
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Frontend
+
 <p>
   <img src="https://img.shields.io/badge/ReactJS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
@@ -25,6 +34,7 @@
 </p>
 
 ### Backend
+
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
@@ -34,6 +44,7 @@
 </p>
 
 ### Database
+
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -42,6 +53,7 @@
 </p>
 
 ### Mobile
+
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
