@@ -7,9 +7,8 @@
 ---
 
 ## 🔥 GitHub Streak
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lilernestooo&theme=tokyonight&hide_border=true&cache_seconds=0" />
+  <img src="https://streak-stats.demolab.com/?user=lilernestooo&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
