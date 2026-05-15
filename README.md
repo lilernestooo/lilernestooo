@@ -13,7 +13,6 @@
     alt="GitHub Streak"
   />
 </p>
----
 
 ## 🛠️ Tech Stack
 
