@@ -8,7 +8,10 @@
 
 ## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=lilernestooo&theme=tokyonight&hide_border=true&r=1" />
+  <img 
+    src="https://streak-stats.demolab.com?user=lilernestooo&theme=tokyonight&hide_border=true&cache_seconds=1"
+    alt="GitHub Streak"
+  />
 </p>
 ---
 
