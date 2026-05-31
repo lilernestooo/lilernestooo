@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://ernest-lazatin.vercel.app/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/🌐%20My%20Portfolio-ernest--lazatin.vercel.app-blue?style=for-the-badge" alt="My Portfolio" />
+    <img src="https://img.shields.io/badge/🌐%20My%20Portfolio-Visit%20Site-blue?style=for-the-badge" alt="My Portfolio" />
   </a>
 </p>
 
