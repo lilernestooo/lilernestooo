@@ -2,8 +2,11 @@
 <p align="center">
   i grind code.
 </p>
+
 <p align="center">
-  <a href="https://ernest-lazatin.vercel.app/">🌐 My Portfolio</a>
+  <a href="https://ernest-lazatin.vercel.app/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/🌐%20My%20Portfolio-ernest--lazatin.vercel.app-blue?style=for-the-badge" alt="My Portfolio" />
+  </a>
 </p>
 
 ---
