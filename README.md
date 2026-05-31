@@ -1,7 +1,9 @@
 <h1 align="center">Hi, I'm Ernest Bernard T. Lazatin</h1>
-
 <p align="center">
   i grind code.
+</p>
+<p align="center">
+  <a href="https://ernest-lazatin.vercel.app/">🌐 My Portfolio</a>
 </p>
 
 ---
