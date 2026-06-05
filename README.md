@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Ernest Bernard T. Lazatin</h1>
 <p align="center">
-  i love to code.
+  i love coding!
 </p>
 
 <p align="center">
