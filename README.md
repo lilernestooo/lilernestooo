@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Ernest Bernard T. Lazatin</h1>
 <p align="center">
-  code!!!!
+  code!!!
 </p>
 <p align="center">
   <a href="https://ernest-lazatin.vercel.app/" target="_blank" rel="noopener noreferrer">
