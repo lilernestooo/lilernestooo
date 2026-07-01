@@ -1,7 +1,5 @@
 <h1 align="center">Hi, I'm Ernest Bernard T. Lazatin</h1>
-<p align="center">
-  code
-</p>
+
 <p align="center">
   <a href="https://ernest-lazatin.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/🌐%20My%20Portfolio-Visit%20Site-blue?style=for-the-badge" alt="My Portfolio" />
@@ -11,12 +9,15 @@
 ---
 
 ## 🔥 GitHub Streak
+
 <p align="center">
   <img 
     src="https://github-readme-streak-stats-eight.vercel.app?user=lilernestooo&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
   />
 </p>
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -38,7 +39,6 @@
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/AdonisJS-5A45FF?style=for-the-badge&logo=adonisjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ### Database
@@ -61,3 +61,11 @@
 </p>
 
 ---
+
+## 🚀 Deployment
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
