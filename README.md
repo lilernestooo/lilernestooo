@@ -1,26 +1,19 @@
 <h1 align="center">Hi, I'm Ernest Bernard T. Lazatin</h1>
-
 <p align="center">
   <a href="https://ernest-lazatin.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/🌐%20My%20Portfolio-Visit%20Site-blue?style=for-the-badge" alt="My Portfolio" />
   </a>
 </p>
-
 ---
-
 ## 🔥 GitHub Streak
-
 <p align="center">
   <img 
     src="https://github-readme-streak-stats-eight.vercel.app?user=lilernestooo&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
   />
 </p>
-
 ---
-
 ## 🛠️ Tech Stack
-
 ### Frontend
 <p align="center">
   <img src="https://img.shields.io/badge/ReactJS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -31,7 +24,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
-
 ### Backend
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -40,7 +32,6 @@
   <img src="https://img.shields.io/badge/AdonisJS-5A45FF?style=for-the-badge&logo=adonisjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
-
 ### Database
 <p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -48,25 +39,21 @@
   <img src="https://img.shields.io/badge/Firebase_Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
-
 ### Mobile
 <p align="center">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 </p>
-
 ---
-
 ## 🚀 Deployment
-
 <p align="center">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
-
 ---
-
 ## ⚙️ Automation
 <p align="center">
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
