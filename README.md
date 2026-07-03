@@ -1,15 +1,13 @@
 <h1 align="center">Hi, I'm Ernest Bernard T. Lazatin</h1>
-
 <p align="center">
   <a href="https://ernest-lazatin.vercel.app/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/🌐%20My%20Portfolio-Visit%20Site-blue?style=for-the-badge" alt="My Portfolio" />
+    <img src="https://img.shields.io/badge/My%20Portfolio-Visit%20Site-blue?style=for-the-badge" alt="My Portfolio" />
   </a>
 </p>
 
 ---
 
-## 🔥 GitHub Streak
-
+## GitHub Streak
 <p align="center">
   <img 
     src="https://github-readme-streak-stats-eight.vercel.app?user=lilernestooo&theme=tokyonight&hide_border=true"
@@ -19,10 +17,9 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
-
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
@@ -34,7 +31,6 @@
 </p>
 
 ### Backend
-
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
@@ -44,7 +40,6 @@
 </p>
 
 ### Database
-
 <p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
@@ -53,7 +48,6 @@
 </p>
 
 ### Mobile
-
 <p align="center">
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
@@ -63,8 +57,7 @@
 
 ---
 
-## 🚀 Deployment
-
+## Deployment
 <p align="center">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
@@ -73,8 +66,7 @@
 
 ---
 
-## ⚙️ Automation
-
+## Automation
 <p align="center">
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
 </p>
