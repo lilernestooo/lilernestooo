@@ -43,7 +43,6 @@
   <img src="https://shields.io" alt="Express.js" />
   <img src="https://shields.io" alt="Laravel" />
   <img src="https://shields.io" alt="AdonisJS" />
-  <img src="https://shields.io" alt="WordPress" />
   <img src="https://shields.io" alt="Firebase" />
   <img src="https://shields.io" alt="PHP PDO" />
 </p>
