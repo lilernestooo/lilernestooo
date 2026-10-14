@@ -1,6 +1,6 @@
 <h1 align="left">Hey!!!</h1>
 <p align="center">
-  <a href="https://vercel.app" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com" target="_blank" rel="noopener noreferrer">
     <img src="https://shields.io" alt="My Portfolio" />
   </a>
 </p>
@@ -10,7 +10,7 @@
 ## GitHub Streak!!!
 <p align="center">
   <img 
-    src="https://vercel.app"
+    src="https://herokuapp.com"
     alt="GitHub Streak"
   />
 </p>
@@ -44,7 +44,7 @@
   <img src="https://shields.io" alt="Laravel" />
   <img src="https://shields.io" alt="AdonisJS" />
   <img src="https://shields.io" alt="Firebase" />
-  <img src="https://shields.io" alt="PHP PDO" />
+  <img src="https://shields.io" alt="PHP" />
 </p>
 
 ### Database!!!
