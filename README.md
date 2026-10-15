@@ -1,6 +1,6 @@
 <h1 align="left">Hey!!!</h1>
 <p align="center">
-  <a href="https://github.com/lilernestooo" target="_blank" rel="noopener noreferrer">
+  <a href="https://ernest-lazatin.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-View_My_Work-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="My Portfolio" />
   </a>
 </p>
